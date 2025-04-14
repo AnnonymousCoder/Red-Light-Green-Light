@@ -28,7 +28,6 @@ This project is inspired by the popular series "Squid Game." It is a simulation 
 1. Open a new window in VSCode and download the Platform IDE extension. Once downloaded a shortcut to PlatformIO IDE will appear at the primary side bar on the left.
 2. Click the extension shortcut, locate the Quick Access tab and click "Open" under PIO Home. PIO Home window should open.
 3. Under Quick Access click open Project and locate the folder where the repo was cloned.
-![image of VSCode with the PlatformIO extensions](./Resources/pio_home.png, 'PIO Home Window')
-
+![image of VSCode with the PlatformIO extensions](./Resources/pio_home.png 'PIO Home Window')
 4. Use the checkmark and right arrow at the bottom status bar in VSCode to build and upload the code respectively.
-![image of the bottom VSCode status bar](./Resources/status_bar.png, 'Bottom Status Bar')
+![image of the bottom VSCode status bar]( ./Resources/status_bar.png 'Bottom Status Bar')
