@@ -29,7 +29,9 @@ This project is inspired by the popular series "Squid Game." It is a simulation 
 2. Click the extension shortcut, locate the Quick Access tab and click "Open" under PIO Home. PIO Home window should open.
 3. Under Quick Access click open Project and locate the folder where the repo was cloned.
 <br/>
-<center>![image of VSCode with the PlatformIO extensions](./Resources/pio_home.png 'PIO Home Window')
+
+![image of VSCode with the PlatformIO extensions](./Resources/pio_home.png 'PIO Home Window') 
 4. Use the checkmark and right arrow at the bottom status bar in VSCode to build and upload the code respectively.
 <br/>
-<center>![image of the bottom VSCode status bar]( ./Resources/status_bar.png 'Bottom Status Bar')
+
+![image of the bottom VSCode status bar]( ./Resources/status_bar.png 'Bottom Status Bar')
