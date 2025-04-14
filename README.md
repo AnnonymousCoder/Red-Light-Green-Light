@@ -17,7 +17,7 @@ This project is inspired by the popular series "Squid Game." It is a simulation 
     ```bash
     mkdir [folder_name]
     cd [folder_name]
-    git clone https://github.com/AnnonymousCoder/Squid_Game_Project.git
+    git clone https://github.com/AnnonymousCoder/Red-Light-Green-Light.git
     ```
 
 ## Usage
